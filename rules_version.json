@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "updated": "2026-08-22",
+  "version": "1.0.6",
+  "updated": "2026-08-25",
   "files": [
     "ar_fix.txt",
     "ar_html.txt",
@@ -46,6 +46,8 @@
     "it_fix.txt",
     "it_html.txt",
     "it_txt.txt",
+    "ka_html.txt",
+    "ka_txt.txt",
     "km_fix.txt",
     "km_html.txt",
     "km_txt.txt",
